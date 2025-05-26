@@ -1,4 +1,4 @@
-import { StyleSheet } from 'react-native';
+import {StyleSheet} from 'react-native';
 
 export const loginStyles = StyleSheet.create({
   container: {
@@ -26,5 +26,11 @@ export const loginStyles = StyleSheet.create({
   button: {
     marginTop: 12,
     backgroundColor: '#1b5e20',
+  },
+  logo: {
+    width: 120,
+    height: 120,
+    marginBottom: 20,
+    alignSelf: 'center',
   },
 });
