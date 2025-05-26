@@ -30,3 +30,13 @@ Thumbs.db
 # IDEs
 .idea/
 
+# Gradle / build system
+android/**/Debug/
+android/**/Release/
+android/**/build/
+android/**/*.bin
+android/**/*.json
+android/**/*.ninja_*
+android/.cxx/
+
+

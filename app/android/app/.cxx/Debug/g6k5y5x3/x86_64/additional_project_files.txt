@@ -1,7 +1,0 @@
-C:\Users\Lee\Projetos\EcoLuz\app\android\app\.cxx\Debug\g6k5y5x3\x86_64\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\RNVectorIconsSpec-generated.cpp.o
-C:\Users\Lee\Projetos\EcoLuz\app\android\app\.cxx\Debug\g6k5y5x3\x86_64\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\ComponentDescriptors.cpp.o
-C:\Users\Lee\Projetos\EcoLuz\app\android\app\.cxx\Debug\g6k5y5x3\x86_64\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\EventEmitters.cpp.o
-C:\Users\Lee\Projetos\EcoLuz\app\android\app\.cxx\Debug\g6k5y5x3\x86_64\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\Props.cpp.o
-C:\Users\Lee\Projetos\EcoLuz\app\android\app\.cxx\Debug\g6k5y5x3\x86_64\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\RNVectorIconsSpecJSI-generated.cpp.o
-C:\Users\Lee\Projetos\EcoLuz\app\android\app\.cxx\Debug\g6k5y5x3\x86_64\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\ShadowNodes.cpp.o
-C:\Users\Lee\Projetos\EcoLuz\app\android\app\.cxx\Debug\g6k5y5x3\x86_64\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\States.cpp.o

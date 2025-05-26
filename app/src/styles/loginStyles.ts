@@ -28,8 +28,8 @@ export const loginStyles = StyleSheet.create({
     backgroundColor: '#1b5e20',
   },
   logo: {
-    width: 120,
-    height: 120,
+    width: 250,
+    height: 250,
     marginBottom: 20,
     alignSelf: 'center',
   },
