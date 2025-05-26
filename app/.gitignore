@@ -1,0 +1,28 @@
+# dependências
+node_modules/
+*.log
+
+# variáveis de ambiente
+.env
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/build/
+
+# VSCode
+.vscode/
+
+# metro, jest
+coverage/
+dist/
+*.tmp
+.cache/
+.expo/
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db
